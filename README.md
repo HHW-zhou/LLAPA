@@ -76,3 +76,31 @@ For inference, execute:
 ```shell
 sh eval.sh
 ```
+
+## Cite
+```
+@inproceedings{zhou-etal-2025-large,
+    title = "Large Language and Protein Assistant for Protein-Protein Interactions Prediction",
+    author = "Zhou, Peng  and
+      Ma, Pengsen  and
+      Wang, Jianmin  and
+      Cai, Xibao  and
+      Huang, Haitao  and
+      Liu, Wei  and
+      Wang, Longyue  and
+      Tim, Lai Hou  and
+      Zeng, Xiangxiang",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.554/",
+    pages = "11312--11327",
+    ISBN = "979-8-89176-251-0"
+}
+```
