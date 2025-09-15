@@ -65,6 +65,8 @@ peft_config = LoraConfig(
 peft_llm = get_peft_model(llm, peft_config)
 model.set_llm(peft_llm)
 
+model.init_protein_encoder()
+
 set_trainable_parameters(model, args)
 # ---------------------------------  训练模型  --------------------------------------
 def collate_fn(batch):
