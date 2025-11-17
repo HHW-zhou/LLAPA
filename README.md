@@ -55,7 +55,7 @@ We provide the LLama3.2-3b version, which can be fine-tuned on an A100 40G GPU.
 
 ## Pre-training
 
-Since pre-trained weights are provided, pre-training is not necessary. However, if you wish to perform pre-training, execute the following command:
+Pre-trained weights are provided at [stage1 weight](https://pan.baidu.com/s/12fIoNIoMPDXltzqC0D14PA?pwd=1wyc). If you wish to perform pre-training, execute the following command:
 
 ```shell
 sh zero2_stage1.sh
